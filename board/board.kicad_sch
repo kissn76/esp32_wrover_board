@@ -1437,16 +1437,16 @@
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
     )
     (path "/974c2ec1-ed1e-4981-a699-7289dc3e2f07"
-      (reference "C2") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C2") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/9dea353e-d6dc-4a85-a47b-f1dbe5a40f67"
-      (reference "C3") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C3") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/e65157f5-6c11-4cdd-ab82-956637b7c4e8"
-      (reference "C4") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C4") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/c0a0d172-e3d1-4d35-bacd-d2f5efe9b2a3"
-      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_1206_3216Metric")
+      (reference "D1") (unit 1) (value "Schottky SMA-SMB") (footprint "Diode_SMD:D_SMA-SMB_Universal_Handsoldering")
     )
     (path "/1510c3dd-f70a-417d-9348-220facac44a3"
       (reference "J1") (unit 1) (value "Conn_01x19") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical")
@@ -1455,22 +1455,22 @@
       (reference "J2") (unit 1) (value "Conn_01x19") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x19_P2.54mm_Vertical")
     )
     (path "/d066b680-cea0-4164-ac28-2e785878ab10"
-      (reference "J3") (unit 1) (value "Conn_01x02") (footprint "Connector_Wago:Wago_734-132_1x02_P3.50mm_Vertical")
+      (reference "J3") (unit 1) (value "3.3-26V") (footprint "Custom_Connector:Ninigi AC141R-02P-2.54")
     )
     (path "/2242ca84-47e8-48a2-92d3-0266cd11783b"
-      (reference "L1") (unit 1) (value "L") (footprint "Inductor_SMD:L_1206_3216Metric")
+      (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_1206_3216Metric")
     )
     (path "/b607b552-9e0c-40fd-8e27-95518a6773f9"
-      (reference "R1") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R1") (unit 1) (value "49.9kΩ") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/7edd4ca7-cada-4e62-9d09-78738ed88b2f"
-      (reference "R2") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R2") (unit 1) (value "15.8kΩ") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/11426d92-e1b0-48ee-b5d3-91091c76184d"
       (reference "R3") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/7c771499-8f8a-4add-bbbf-368fb3f03079"
-      (reference "U1") (unit 1) (value "ESP32-WROVER-E") (footprint "RF_Module_Custom:ESP32-WROVER-IE")
+      (reference "U1") (unit 1) (value "ESP32-WROVER-E") (footprint "Custom_RF_Module:ESP32-WROVER-IE")
     )
     (path "/344e5ad5-a2bf-4631-83e2-24a34135cfc6"
       (reference "U2") (unit 1) (value "AOZ1280CI") (footprint "Package_TO_SOT_SMD:SOT-23-6")
