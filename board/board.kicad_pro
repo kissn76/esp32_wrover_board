@@ -49,7 +49,10 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_edge_clearance|143170000|53340000|8c800005-4c5b-45b7-97ea-5afab9629ff1|fe6a2462-e132-4777-b46a-b917f7e46213",
+        "silk_edge_clearance|164170000|53340000|8c800005-4c5b-45b7-97ea-5afab9629ff1|3a642d2a-9d0c-4339-a239-e914a1797034"
+      ],
       "meta": {
         "version": 2
       },
