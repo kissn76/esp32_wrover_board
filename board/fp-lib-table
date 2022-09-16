@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Custom_RF_Module")(type "KiCad")(uri "/home/nn/Codes/esp32_wrover_board/Custom_RF_Module.pretty")(options "")(descr ""))
   (lib (name "Custom_Connector")(type "KiCad")(uri "/home/nn/Codes/esp32_wrover_board/Custom_Connector.pretty")(options "")(descr ""))
+  (lib (name "Custom_Inductor")(type "KiCad")(uri "/home/nn/Codes/esp32_wrover_board/Custom_Inductor.pretty")(options "")(descr ""))
 )
